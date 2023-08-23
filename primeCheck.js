@@ -1,6 +1,6 @@
 let num = 20;
 let factor = 0;
-for(let i=0; i<=num; i++){
+for(let i=2; i<=num; i++){
   if(num%i==0){
     factor++
   }
